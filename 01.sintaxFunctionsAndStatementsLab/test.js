@@ -1,0 +1,10 @@
+let age1 = 5;
+age1++;
+let age2 =  10;
+age2++;
+console.log(age1);
+console.log(age2);
+let str = "11" -"1";
+console.log(str);
+let str1 = "sit" - "si";
+console.log(str1);
